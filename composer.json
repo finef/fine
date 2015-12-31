@@ -1,0 +1,13 @@
+{
+    "name": "finef/fine",
+    "description": "Fine PHP Framework",
+    "keywords": [
+        "framework",
+        "fine"
+    ],
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
