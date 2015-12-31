@@ -5,7 +5,7 @@ Instalation
 -----------
 
 
-`php -r "readfile('https://raw.githubusercontent.com/finef/install/master/composer.json');" > composer.json && composer install`
+`git clone --depth 1 https://github.com/finef/fine.git . && git remote remove origin && composer install`
 
 
 Modules
@@ -14,3 +14,5 @@ Modules
 
 Components
 ----------
+
+- [zend-stratigility](https://github.com/zendframework/zend-stratigility)
