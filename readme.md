@@ -15,4 +15,4 @@ Modules
 Components
 ----------
 
-- [zend-stratigility](https://github.com/zendframework/zend-stratigility)
+- [Container](https://github.com/fienf/container)
