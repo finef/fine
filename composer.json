@@ -9,6 +9,9 @@
     "minimum-stability": "dev",
     "repositories": [
         {"type": "vcs", "url": "https://github.com/finef/container"},
-        {"type": "vcs", "url": "https://github.com/finef/fine"}
+        {"type": "vcs", "url": "https://github.com/finef/filter"},
+        {"type": "vcs", "url": "https://github.com/finef/fine"},
+        {"type": "vcs", "url": "https://github.com/finef/moduleinstall"},
+        {"type": "vcs", "url": "https://github.com/finef/worker"}
     ]
 }
