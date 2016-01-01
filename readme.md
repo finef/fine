@@ -5,7 +5,7 @@ Instalation
 -----------
 
 
-`git clone --depth 1 https://github.com/finef/fine.git . && git remote remove origin && composer install`
+`composer create-project fine/fine`
 
 
 Modules
@@ -16,3 +16,4 @@ Components
 ----------
 
 - [Container](https://github.com/finef/container)
+- [Filter](https://github.com/finef/filter)
