@@ -1,7 +1,7 @@
 Fine PHP Framework
 ==================
 
-Instalation
+Installation
 -----------
 
 
